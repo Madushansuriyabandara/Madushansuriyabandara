@@ -10,7 +10,7 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
 </details>
 
 
-## **🔧 Technologies & Tools**
+## **🔧 Technical Skills**
 
 **Programming Languages:**
 
