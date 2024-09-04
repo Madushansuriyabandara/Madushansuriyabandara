@@ -55,16 +55,16 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
      <p align="left">
  <p align="left" style="margin: 0; padding: 0;">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="100" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="75" height="50"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="100" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="75" height="50"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="100" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="75" height="50"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="50"/>
   </a>
 </p>
     </td>
@@ -93,16 +93,16 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
             <p>An E-Commerce platform with a MySQL database system for product variant management, inventory control, and online purchasing for guests and registered users. Developed mechanisms for tracking sales, product popularity, and delivery time estimations using triggers, procedures, and indexing.</p>
        <p align="left" style="margin: 0; padding: 0;">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="50"/>
         </a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="50"/>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="100" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="75" height="50"/>
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="50"/>
         </a>
     </td>
     <td width="50%" valign="top">
