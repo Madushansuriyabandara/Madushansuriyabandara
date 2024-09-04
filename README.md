@@ -1,6 +1,6 @@
-# **Madushan Suriyabandara** - Computer Science and Engineering Undergrad
+# **Madushan Suriyabandara** - Computer Science Engineering Undergrad
 
-Hello 👋. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa.
+Hello 👋. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa, specializing in software development, system design, and problem-solving.
 
 <details><Summary>Navigate</Summary>
    
@@ -42,12 +42,14 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
 ![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
 
+
 ## **Projects**
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="background-image: url('./images/Mediconnect.jpg'); background-size: cover; background-position: center; opacity: 0.8;">
-      <div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
+    <td width="50%" valign="top" style="position: relative;">
+      <img src="./images/Mediconnect.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
         <h2>Real-time Medical Care Management System</h2>
         <p>Architected and developing a dual-mode mobile app for patients and doctors using Flutter, Django, and PostgreSQL, along with a web app for admins using React. Key features include doctor search, appointment scheduling, real-time availability updates, and prescription management with medicine reminders.</p>
         <p><strong>Technologies Used:</strong> Flutter, Django, PostgreSQL, React</p>
