@@ -57,7 +57,7 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
       </div>
     </td>
     <td width="50%" valign="top">
-       <img src="./images/Medi_Box.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
+       <img src="./images/Medi_Box.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
       <h2>Smart Medibox</h2>
       <p>Developed the Smart MediBox, featuring reminders for medication times and alerts for environmental conditions. Utilized MQTT architecture and Node-RED Dashboard for sensor data display and user control. Implemented using Wokwi, Node-RED, and designed the PCB with EasyEDA.</p>
