@@ -48,7 +48,7 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
 <table>
   <tr>
     <td width="50%" valign="top" style="position: relative;">
-      <img src="./images/Mediconnect.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
+      <img src="./images/Medi_Connect.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
         <h2>Real-time Medical Care Management System</h2>
         <p>Architected and developing a dual-mode mobile app for patients and doctors using Flutter, Django, and PostgreSQL, along with a web app for admins using React. Key features include doctor search, appointment scheduling, real-time availability updates, and prescription management with medicine reminders.</p>
@@ -57,6 +57,8 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
       </div>
     </td>
     <td width="50%" valign="top">
+       <img src="./images/Medi_Box.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
       <h2>Smart Medibox</h2>
       <p>Developed the Smart MediBox, featuring reminders for medication times and alerts for environmental conditions. Utilized MQTT architecture and Node-RED Dashboard for sensor data display and user control. Implemented using Wokwi, Node-RED, and designed the PCB with EasyEDA.</p>
       <p><strong>Technologies Used:</strong> Wokwi, Node-RED, PCB Design</p>
@@ -64,12 +66,16 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
     </td>
     <tr>
     <td width="50%" valign="top">
+       <img src="./images/Medi_Connect.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
       <h2>E-commerce Platform</h2>
       <p>Co-designed a MySQL database system for product variant management, inventory control, and online purchasing for guests and registered users. Developed mechanisms for tracking sales, product popularity, and delivery time estimations using triggers, procedures, and indexing.</p>
       <p><strong>Technologies Used:</strong> MySQL, React, CSS, Express.js</p>
       <p><a href="https://github.com/Madushansuriyabandara/ECommercePlatform">View Repository</a></p>
     </td>
     <td width="50%" valign="top">
+       <img src="./images/Medi_Connect.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.7; z-index: 1;" />
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
       <h2>RPAL Interpreter</h2>
       <p>Co-developed an interpreter for RPAL, handling script execution through components like a lexical analyzer, parser, standardizer, and CSE machine. Implemented in Java to parse and execute recursive algorithms and functional constructs.</p>
       <p><strong>Technologies Used:</strong> Java</p>
