@@ -46,7 +46,7 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="background-image: url('images/Mediconnect.jpg'); background-size: cover; background-position: center; opacity: 0.8;">
+    <td width="50%" valign="top" style="background-image: url('./images/Mediconnect.jpg'); background-size: cover; background-position: center; opacity: 0.8;">
       <div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
         <h2>Real-time Medical Care Management System</h2>
         <p>Architected and developing a dual-mode mobile app for patients and doctors using Flutter, Django, and PostgreSQL, along with a web app for admins using React. Key features include doctor search, appointment scheduling, real-time availability updates, and prescription management with medicine reminders.</p>
