@@ -121,6 +121,20 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Madushansuriyabandara/Nano-Processor">Nano Processor</a></h3>
+      <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
+        <img src="./images/Nano_Processor.png" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
+      </div>
+      <p>A 4-bit nanoprocessor using VHDL on the Vivado platform. The project involved creating essential components like half adders, multiplexers, registers, and an ALU, which were tested and integrated to support basic arithmetic and logical operations. The design was successfully synthesized and deployed on the BASYS 3 FPGA board.</p>
+      <p align="left">
+        <a href="https://www.xilinx.com/support/download.html" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="./images/vivado.png" alt="flutter" width="50" height="50"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## **Contact Information**
