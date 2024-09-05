@@ -2,13 +2,13 @@
 
 Hello 👋. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa.
 
-<details><summary>Navigate</summary>
-   
-1. [Technical Skills](#technical-skills)
-2. [Projects](#projects)
-3. [Contact Information](#contact-information)
+<details>
+  <summary>Navigate</summary>
+  
+  1. [Technical Skills](#technical-skills)
+  2. [Projects](#projects)
+  3. [Contact Information](#contact-information)
 </details>
-
 
 ## **🔧 Technical Skills**
 
@@ -42,81 +42,88 @@ Hello 👋. I am a 3rd-year Computer Science and Engineering student at the Univ
 ![Wokwi](https://img.shields.io/badge/Tools-Wokwi-informational?style=flat&logo=wokwi&logoColor=white&color=6aa6f8)
 ![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
-
 ## **Projects**
 
 <table>
   <tr>
     <td width="50%" valign="top">
-             <h3><a href="https://github.com/Madushansuriyabandara/Mediconnect"> Real-time Medical Care Management System</a></h3>
-       <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
-  <img src="./images/Medi_Connect.jpg" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
+      <h3><a href="https://github.com/Madushansuriyabandara/Mediconnect">Real-time Medical Care Management System</a></h3>
+      <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
+        <img src="./images/Medi_Connect.jpg" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
+      </div>
       <p>A dual-mode mobile app for patients and doctors built using Flutter, Django, and PostgreSQL, complemented by a web app for admins using React. Key features include doctor search, appointment scheduling, real-time doctor availability updates, and prescription management with medicine reminders for patients. For doctors, the app offers task scheduling, patient attendance support, and medical session management.</p>
-     <p align="left">
- <p align="left" style="margin: 0; padding: 0;">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="75" height="50"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="75" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="75" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="50"/>
-  </a>
-</p>
+      <p align="left">
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="75" height="50"/>
+        </a>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="75" height="50"/>
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="75" height="50"/>
+        </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="50"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-       <h3><a href="https://github.com/Madushansuriyabandara/Smart_Medibox"> Smart Medibox</a></h3>
-       <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
-  <img src="./images/Medibox Circuit.png" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
-            <p>The Smart MediBox, featuring reminders for medication times and alerts for environmental conditions. Utilized MQTT architecture and Node-RED Dashboard for sensor data display and user control. Implemented using Wokwi, Node-RED, and designed the PCB with EasyEDA.</p>
-          <p align="left">
- <p align="left" style="margin: 0; padding: 0;">
-     <a href="https://wokwi.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-left: 20px;">
-    <img src="./images/wokwi.png" alt="flutter" width="50" height="50"/>
-  </a>
-     <a href="https://easyeda.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-left: 20px;">
-    <img src="./images/EasyEDA.png" alt="flutter" width="125" height="50"/>
-  </a>
-     <a href="https://nodered.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-left: 20px;">
-    <img src="./images/NodeRED.png" alt="flutter" width="65" height="50"/>
-  </a>
+      <h3><a href="https://github.com/Madushansuriyabandara/Smart_Medibox">Smart Medibox</a></h3>
+      <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
+        <img src="./images/Medibox Circuit.png" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
+      </div>
+      <p>The Smart MediBox, featuring reminders for medication times and alerts for environmental conditions. Utilized MQTT architecture and Node-RED Dashboard for sensor data display and user control. Implemented using Wokwi, Node-RED, and designed the PCB with EasyEDA.</p>
+      <p align="left">
+        <a href="https://wokwi.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="./images/wokwi.png" alt="flutter" width="50" height="50"/>
+        </a>
+        <a href="https://easyeda.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="./images/EasyEDA.png" alt="flutter" width="125" height="50"/>
+        </a>
+        <a href="https://nodered.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+          <img src="./images/NodeRED.png" alt="flutter" width="65" height="50"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-       <h3><a href="https://github.com/Madushansuriyabandara/E-Commerce-Platform">E-commerce Platform</a></h3>
+      <h3><a href="https://github.com/Madushansuriyabandara/E-Commerce-Platform">E-commerce Platform</a></h3>
+      <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
         <img src="./images/E-commerce.jpeg" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
-            <p>An E-Commerce platform with a MySQL database system for product variant management, inventory control, and online purchasing for guests and registered users. Developed mechanisms for tracking sales, product popularity, and delivery time estimations using triggers, procedures, and indexing.</p>
-       <p align="left" style="margin: 0; padding: 0;">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
+      </div>
+      <p>An E-Commerce platform with a MySQL database system for product variant management, inventory control, and online purchasing for guests and registered users. Developed mechanisms for tracking sales, product popularity, and delivery time estimations using triggers, procedures, and indexing.</p>
+      <p align="left">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="50"/>
         </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="50"/>
         </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin-right: 20px;">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="75" height="50"/>
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="50"/>
         </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-             <h3><a href="https://github.com/Madushansuriyabandara/RPAL_Interpreter">RPAL Interpreter</a></h3>
-       <img src="./images/RPAL.png" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
+      <h3><a href="https://github.com/Madushansuriyabandara/RPAL_Interpreter">RPAL Interpreter</a></h3>
+      <div style="width: 200px; height: 200px; overflow: hidden; position: relative;">
+        <img src="./images/RPAL.png" style="position: absolute; top: 50%; left: 50%; width: 100%; height: 250px; object-fit: cover; transform: translate(-50%, -50%);" alt="example"/>
+      </div>
       <p>An RPAL interpreter, handling script execution through components like a lexical analyzer, parser, standardizer, and CSE machine. Implemented in Java to parse and execute recursive algorithms and functional constructs.</p>
- <p align="left" style="margin: 0; padding: 0;">
+      <p align="left">
         <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-        </a></p>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ## **Contact Information**
+
 - **Email**: [madushansuriyabandara@gmail.com](mailto:madushansuriyabandara@gmail.com)
 - **LinkedIn**: [Madushan Suriyabandara](https://www.linkedin.com/in/madushan-suriyabandara-75b322243/)
