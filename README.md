@@ -1,6 +1,6 @@
 # **Madushan Suriyabandara** - Computer Science Engineering Undergrad
 
-Hello 👋. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa, specializing in software development, system design, and problem-solving.
+Hello 👋. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa.
 
 <details><summary>Navigate</summary>
    
