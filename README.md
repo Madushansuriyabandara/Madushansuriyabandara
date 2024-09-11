@@ -1,6 +1,6 @@
 # **Madushan Suriyabandara** - Computer Science Engineering Undergrad
 
-Hello 👋. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa.
+Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="30" height="25" />. I am a 3rd-year Computer Science and Engineering student at the University of Moratuwa.
 
 <details>
   <summary>Navigate</summary>
