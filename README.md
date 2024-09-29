@@ -10,8 +10,11 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
   3. [Contact Information](#contact-information)
 </details>
 
-## **🔧 Technical Skills**
+---
 
+
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=3df7f2&random=false&width=435&lines=🔧+Technical+Skills)
+ 
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -42,7 +45,9 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
 ![Wokwi](https://img.shields.io/badge/Tools-Wokwi-informational?style=flat&logo=wokwi&logoColor=white&color=6aa6f8)
 ![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
-## **Projects**
+---
+
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=3df7f2&random=false&width=435&lines=Projects)
 
 <table>
   <tr>
@@ -137,7 +142,9 @@ Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fl
   </tr>
 </table>
 
-## **Contact Information**
+---
+
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=3df7f2&random=false&width=435&lines=Contact+Information)
 
 - **Email**: [madushansuriyabandara@gmail.com](mailto:madushansuriyabandara@gmail.com)
 - **LinkedIn**: [Madushan Suriyabandara](https://www.linkedin.com/in/madushan-suriyabandara-75b322243/)
