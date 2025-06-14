@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=4th%20year%20CSE%20Undergraduate;University%20of%20Moratuwa;AI%20enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3828ca&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final-year%20CSE%20undergrad%2C%20University%20of%20Moratuwa&font=Fira%20Code&center=true&width=740&height=45&color=3828ca&vCenter=true&pause=1000&size=22" />
 </p>
+
 
 <hr>
 <details open>
@@ -172,11 +173,11 @@
   <summary><h2>📞 Contact Me</h2></summary>
 
 <a href="mailto:madushansuriyabandara@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logoColor=white&font=Arial&font-size=13" alt="Email" width="110" height="30">
+      <img src="https://img.shields.io/badge/Email-D14836?logoColor=white&font=Fira%20Code&font-size=13" alt="Email" width="110" height="30">
     </a>
     <br>
     <a href="https://www.linkedin.com/in/madushan-suriyabandara-75b322243/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logoColor=white&font=Arial&font-size=14" alt="LinkedIn" width="110" height="30">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logoColor=white&font=Fira%20Code&font-size=14" alt="LinkedIn" width="110" height="30">
     </a>
 
 </details>
