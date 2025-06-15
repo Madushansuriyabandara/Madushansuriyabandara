@@ -25,13 +25,13 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Madushansuriyabandara&theme=react&border=3828ca&hide_border=true" alt="Madushansuriyabandara" />
     </a>
     <a href="https://github.com/Madushansuriyabandara/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Madushansuriyabandara&show_icons=true&theme=react&border_color=3828ca&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats-sigma-seven-18.vercel.app/api?username=Madushansuriyabandara&show_icons=true&theme=react&border_color=3828ca&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Madushansuriyabandara/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madushansuriyabandara&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=3828ca&text_color=ffffff&icon_color=ff004c&bg_color=20232a&langs_count=8&layout=compact&border_color=3828ca&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/top-langs/?username=Madushansuriyabandara&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=3828ca&text_color=ffffff&icon_color=ff004c&bg_color=20232a&langs_count=8&layout=compact&border_color=3828ca&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
 </h2>
@@ -58,16 +58,16 @@
 
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Madushansuriyabandara/Mediconnect" title="Mediconnect"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Madushansuriyabandara&repo=Mediconnect&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a><a align="right" href="https://github.com/Madushansuriyabandara/Smart_Medibox" title="Smart Medibox"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Madushansuriyabandara&repo=Smart_Medibox&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
+  <a align="left" href="https://github.com/Madushansuriyabandara/Mediconnect" title="Mediconnect"><img align="left" height="135" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=Mediconnect&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a><a align="right" href="https://github.com/Madushansuriyabandara/Smart_Medibox" title="Smart Medibox"><img align="right" height="135" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=Smart_Medibox&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Madushansuriyabandara/E-Commerce-Platform" title="E-Commerce-Platform"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Madushansuriyabandara&repo=E-Commerce-Platform&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
-  <a align="right" href="https://github.com/Madushansuriyabandara/RPAL_Interpreter" title="RPAL Interpreter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Madushansuriyabandara&repo=RPAL_Interpreter&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
+  <a align="left" href="https://github.com/Madushansuriyabandara/E-Commerce-Platform" title="E-Commerce-Platform"><img align="left" height="135" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=E-Commerce-Platform&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
+  <a align="right" href="https://github.com/Madushansuriyabandara/RPAL_Interpreter" title="RPAL Interpreter"><img align="right" height="135" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=RPAL_Interpreter&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Madushansuriyabandara/Nano-Processor" title="Nano-Processor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Madushansuriyabandara&repo=Nano-Processor&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
+  <a align="left" href="https://github.com/Madushansuriyabandara/Nano-Processor" title="Nano-Processor"><img align="left" height="135" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=Nano-Processor&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -173,11 +173,11 @@
   <summary><h2>📞 Contact Me</h2></summary>
 
 <a href="mailto:madushansuriyabandara@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logoColor=white&font=Fira%20Code&font-size=13" alt="Email" width="110" height="30">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?logoColor=white&font=Fira%20Code&font-size=13" alt="EMAIL" width="110" height="30">
     </a>
     <br>
     <a href="https://www.linkedin.com/in/madushan-suriyabandara-75b322243/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logoColor=white&font=Fira%20Code&font-size=14" alt="LinkedIn" width="110" height="30">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?logoColor=white&font=Fira%20Code&font-size=14" alt="LINKEDIN" width="110" height="30">
     </a>
 
 </details>
