@@ -62,7 +62,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Madushansuriyabandara/E-Commerce-Platform" title="E-Commerce-Platform"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Madushansuriyabandara&repo=E-Commerce-Platform&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
+  <a align="left" href="https://github.com/Madushansuriyabandara/E-Commerce-Platform" title="E-Commerce-Platform"><img align="left" height="125" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=E-Commerce-Platform&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
   <a align="right" href="https://github.com/Madushansuriyabandara/RPAL_Interpreter" title="RPAL Interpreter"><img align="right" height="125" src="https://github-readme-stats-sigma-seven-18.vercel.app/api/pin/?username=Madushansuriyabandara&repo=RPAL_Interpreter&theme=react&bg_color=1F222E&title_color=3828ca&hide_border=true&icon_color=3828ca&show_icons=true&border_color=61dafb&border_radius=10&show_description=true"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
