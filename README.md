@@ -18,16 +18,16 @@
 
 <br>
 
-
 <p align=center>
   <div align=center>
-    <a href="https://github.com/Madushansuriyabandara/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Madushansuriyabandara&theme=react&border=3828ca&hide_border=true" alt="Madushansuriyabandara" />
-    </a>
+<a href="https://git.io/streak-stats"><img aligh="left" width=390 src="https://github-readme-streak-stats-7qbb7alo7.vercel.app?user=Madushansuriyabandara&theme=react&hide_border=true&card_width=390" alt="GitHub Streak" /></a>
+  </div>
+  <div>
     <a href="https://github.com/Madushansuriyabandara/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats-sigma-seven-18.vercel.app/api?username=Madushansuriyabandara&show_icons=true&theme=react&border_color=3828ca&hide_border=true" />
     </a>
   </div>
+
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Madushansuriyabandara/github-readme-stats">
