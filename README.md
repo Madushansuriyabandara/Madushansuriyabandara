@@ -20,7 +20,7 @@
 
 
 <div align=center>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a href="https://git.io/streak-stats">
   <img width=390 height=160 align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=Madushansuriyabandara&theme=react&hide_border=true" alt="GitHub Streak" />
 </a>
     <a href="https://github.com/Madushansuriyabandara/github-readme-stats" title="Go to Source">
