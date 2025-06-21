@@ -49,9 +49,13 @@
 
 
 
+
 </details>
 
 </hr>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true&quote=Let%20your%20contributions%20reflect%20your%20commitment%20&author=Madushan,%20North%20Star%20Version" alt="Personal Quote">
+</p>
 
 <hr>
 <details close>
