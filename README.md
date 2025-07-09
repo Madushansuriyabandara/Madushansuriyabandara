@@ -100,6 +100,9 @@
     <a href="https://github.com/harish-sethuraman/readme-components">
       <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=43853D"  height="50">
     </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components-eta.vercel.app//api?component=logo&&fill=black&logo=langchain&svgfill=1C3C3B"  height="50">
+    </a>
   </p>
 
   <h4>Databases:</h4>
