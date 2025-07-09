@@ -163,8 +163,13 @@
 
 <hr>
 
-<h3 align="center"> Visitor count</h3>
+
 <p align="center">
-<img src="https://profile-counter.glitch.me/Madushansuriyabandara/count.svg" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Madushansuriyabandara&color=8A2BE2&style=for-the-badge" 
+    alt="Profile views" 
+    width="220"
+  />
 </p>
+
 
