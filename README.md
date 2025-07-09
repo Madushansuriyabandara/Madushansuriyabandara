@@ -139,6 +139,9 @@
     <a href="https://github.com/harish-sethuraman/readme-components">
       <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF6C37" height="50">
     </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=009DDB" height="50">
+    </a>
   </p>
 </details>
 
