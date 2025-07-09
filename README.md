@@ -131,7 +131,7 @@
       <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visual-studio-code&svgfill=007ACC" width="100" height="50">
     </a>
     <a href="https://github.com/harish-sethuraman/readme-components">
-      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=100000" width="100" height="50">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" width="100" height="50">
     </a>
     <a href="https://github.com/harish-sethuraman/readme-components">
       <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF6C37" width="100" height="50">
