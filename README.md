@@ -56,6 +56,18 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true&quote=Let%20your%20contributions%20reflect%20your%20commitment%20&author=Madushan,%20North%20Star%20Version" alt="Personal Quote">
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github.com/Madushansuriyabandara/Madushansuriyabandara/blob/main/images/20250906_094642_edit1-ezgif.com-crop.gif">
+    <img alt="GIF description" 
+         src="https://github.com/Madushansuriyabandara/Madushansuriyabandara/blob/main/images/20250906_094642_edit1-ezgif.com-crop.gif" 
+         width="600">
+  </picture>
+  <br />
+</div>
+
+
 <hr>
 <details close>
   <summary><h2>🛠️ Technical Skills</h2></summary>
@@ -142,8 +154,9 @@
       <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=009DDB" height="50">
     </a>
   </p>
-</details>
 
+
+</details>
 
 
 </hr>
