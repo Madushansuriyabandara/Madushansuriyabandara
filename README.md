@@ -121,6 +121,7 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF6C37" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=009DDB" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=009DDB" height="50"></a>
 </p>
 
   </td>
