@@ -59,22 +59,10 @@
 <hr>
 <details open>
   <summary><h2>🛠️ Technical Skills</h2></summary>
-
-  <table>
-    <tr>
       <!-- Left Column: GIF -->
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" 
-                  srcset="https://github.com/Madushansuriyabandara/Madushansuriyabandara/blob/main/images/20250906_094642_edit1-ezgif.com-crop.gif">
-          <img alt="GIF description" 
-               src="https://github.com/Madushansuriyabandara/Madushansuriyabandara/blob/main/images/20250906_094642_edit1-ezgif.com-crop.gif" 
-               width="700">
-        </picture>
-      </td>
+
 
   <!-- Right Column: Skills -->
-  <td width="50%" valign="top">
 
 <h4>Programming Languages:</h4>
 <p align="left">
@@ -117,11 +105,15 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=009DDB" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=009DDB" height="50"></a>
 </p>
-
-  </td>
-</tr>
-  </table>
-
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/Madushansuriyabandara/Madushansuriyabandara/main/images/20250906_094642_edit1-ezgif.com-crop.gif">
+      <img alt="GIF description"
+           src="https://raw.githubusercontent.com/Madushansuriyabandara/Madushansuriyabandara/main/images/20250906_094642_edit1-ezgif.com-crop.gif"
+           width="450" style="max-width:100%;height:auto;">
+    </picture>
+  </p>
 </details>
 
 <hr>
