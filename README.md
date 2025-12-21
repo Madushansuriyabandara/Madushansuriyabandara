@@ -94,6 +94,7 @@
 <p align="left">
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=microsoftazure&svgfill=0078D4" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=FF9900" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cloudflare&svgfill=FF9900" height="50"></a>
 </p>
 
 <h4>Tools & Others:</h4>
