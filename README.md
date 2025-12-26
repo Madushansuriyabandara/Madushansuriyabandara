@@ -82,7 +82,7 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dot-net&svgfill=512BD4" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=43853D" height="50"></a>
   <a href="#"><img src="https://readme-components-eta.vercel.app//api?component=logo&&fill=black&logo=langchain&svgfill=1C3C3B" height="50"></a>
-<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=springboot&svgfill=43853D" height="50"></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=43853D" height="50"></a>
 </p>
 
 <h4>Databases:</h4>
