@@ -66,7 +66,7 @@
 
 <h4>Programming Languages:</h4>
 <p align="left">
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3670A0" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=00599C&logotext=C%2B%2B" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2" height="50"></a>
@@ -80,22 +80,23 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61DAFB" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dot-net&svgfill=512BD4" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=43853D" height="50"></a>
-  <a href="#"><img src="https://readme-components-eta.vercel.app//api?component=logo&&fill=black&logo=langchain&svgfill=1C3C3B" height="50"></a>
-<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=43853D" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933" height="50"></a>
+  <a href="#"><img src="https://readme-components-eta.vercel.app//api?component=logo&&fill=black&logo=langchain&svgfill=1C3C3C" height="50"></a>
+<a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=6DB33F" height="50"></a>
 </p>
 
 <h4>Databases:</h4>
 <p align="left">
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=005C84" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=316192" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=4169E1" height="50"></a>
 </p>
 
 <h4>Cloud Platforms:</h4>
 <p align="left">
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=microsoftazure&svgfill=0078D4" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws&svgfill=FF9900" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cloudflare&svgfill=FF9900" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cloudflare&svgfill=F38020" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel" height="50"></a>
 </p>
 
 <h4>Tools & Others:</h4>
@@ -104,10 +105,9 @@
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=007ACC" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" height="50"></a>
   <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF6C37" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=009DDB" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=009DDB" height="50"></a>
-  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino&svgfill=009DDB" height="50"></a>
-	
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ED" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=DD2C00" height="50"></a>
+  <a href="#"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=arduino&svgfill=00878F" height="50"></a>
 </p>
   <p align="center">
     <picture>
