@@ -44,11 +44,6 @@
 </picture>
 
 
-
-
-
-
-
 </details>
 
 </hr>
